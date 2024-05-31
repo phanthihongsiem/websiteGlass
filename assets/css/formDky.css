@@ -1,0 +1,124 @@
+body{
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.form-login{
+    text-align: center;
+    width: 400px;
+    height: 550px;
+    background: white;
+    margin-left: 480px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.form-container{
+    margin-top: 50px;
+}
+.title{
+
+    font-size: 30px;
+    font-weight: bold;
+    color: #F15412;
+    margin-top: 50px;
+}
+.form-group input{
+    width: 350px;
+    height: 35px;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 30px;
+    border: 1px solid #e2e6ea;
+}
+.btn{
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+    color: #e2e6ea;
+    float: left;
+    margin-left: 40px;
+    background-color: #F15412;
+    border-radius: 5px;
+    border: 1px solid #F15412;
+}
+.btn:hover{
+    color: black;
+    background-color: #e2e6ea;
+}
+
+.btn-dn:hover{
+    color: black;
+    background-color: #e2e6ea;
+}
+.btn-dn{
+    float: right;
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+    color: #e2e6ea;
+    float: right;
+    margin-right: 40px;
+    background-color: #F15412;
+    border-radius: 5px;
+    border: 1px solid #F15412;
+}
+
+.save{
+    float: left;
+    margin-top: 10px;
+
+}
+a{
+    color: #e2e6ea;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+.text-center {
+    text-align: center !important;
+}
+.rounded {
+    border-radius: 0.25rem !important;
+}
+
+.text{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: 500;
+}
+.nhapma{
+    float: left;
+    width: 160px;
+    height: 50px;
+    background-color: #cccccc;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin-top: 50px;
+}
+.margin-right {
+    float: right;
+    font-weight: 500;
+    width: 200px;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+
+.text-center .rounded{
+    background-color: #F15412;
+    color: #e2e6ea;
+    width: 150px;
+    height: 45px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.rounded1{
+    background-color: #F15412;
+    color: #e2e6ea;
+    width: 200px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+
+}
